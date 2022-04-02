@@ -1,2 +1,2 @@
-# nad
-NFC Authorization Directory
+# naad
+NFC Authentication and Authorization Directory
